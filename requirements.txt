@@ -1,0 +1,11 @@
+argparse
+io
+os
+subprocess
+time
+matplotlib
+json
+requests
+Pillow>=5.3.0
+random
+tkinter
